@@ -1,7 +1,7 @@
 global:
   params:
-    p1: 10000
-    p2: 20000
+    p1: 10001
+    p2: 20001
 
 management:
   endpoints:
